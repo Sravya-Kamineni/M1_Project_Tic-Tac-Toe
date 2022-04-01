@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/89642370/161132126-893fa8a6-1dfd-45d2-92bf-6e7ef4488755.png)
 ![codiga](https://user-images.githubusercontent.com/89642370/161204376-cfecd6af-8ef2-41ce-81fa-651369e3baba.jpg)
 
-# codacy quality check
+# codacy code quality
 
 ![codacy](https://user-images.githubusercontent.com/89642370/161204731-e8ce38d2-baa5-479b-a6c9-a62f639562a9.jpg)
 
