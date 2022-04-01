@@ -9,6 +9,9 @@
 
 ![codacy](https://user-images.githubusercontent.com/89642370/161204731-e8ce38d2-baa5-479b-a6c9-a62f639562a9.jpg)
 
+![image](https://user-images.githubusercontent.com/89642370/161208389-f61f1798-f267-4d03-af98-31588d1c2931.png)
+
+
 
 # M1_Project_Tic-Tac-Toe
 ### tic-tac-toe is a game in which two players alternatively put Xs and Os in compartments of a figure formed by two vertical lines and each tries to get a row of three Xs or three Os before the opponent does and enjoy the coding.
